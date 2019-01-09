@@ -1,4 +1,5 @@
 # Her nester vi dictionary i et dictionary
+# Dictionariet inneholder alle brukerene, og hver bruker har et dictionary med diverse data
 
 users = {
     'aeinstein': {
