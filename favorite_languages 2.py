@@ -6,5 +6,6 @@ favorite_languages = {
     }
 
 # Nå looper vi igjennom alle som har registrert favorittspråk
-for name in favorite_languages.keys():
-    print(name.title())
+for name, language in favorite_languages.items():
+    print(name.title() + "'s favorite language is " +
+          language.title() + ".")
