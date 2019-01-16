@@ -1,4 +1,4 @@
-# Introduksjon for while løkker
+# Introduksjon for while lï¿½kker
 # Denne teller fra 1 til 5
 
 current_number = 1
